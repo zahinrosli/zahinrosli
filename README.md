@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 A brief introduction on myself:
-- 🌱 I’m currently learning SQL and Python languages.
+- 🌱 I’m currently learning SQL& Python languages.
 - 👯 I’m looking to collaborate and contribute on any project involving data analytics.
 - 💬 Ask me about biology and zoology.
 
