@@ -1,6 +1,6 @@
 <h1 align="center"> Hey you guys! Welcome to my GitHub profile 👋 </h1>
 <h2 align="center"> I'm a Malaysian guy just enjoying life and found a new passion in data analytics. </h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 A brief introduction on myself:
 - 🌱 I’m currently learning SQL and Python languages.
