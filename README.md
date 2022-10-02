@@ -7,7 +7,6 @@ A brief introduction on myself:
 - 👯 I’m looking to collaborate and contribute on any project involving data analytics.
 - 💬 Ask me about biology and zoology.
 
-
 ### Connect with me 
 <a href="https://www.instagram.com/muhdzahin/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/muhammad-zahin-rosli-1b0251165/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.hackerrank.com/zahinrosli97" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
