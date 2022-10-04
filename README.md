@@ -15,7 +15,6 @@ A brief introduction on myself:
 
 ### My profile statistics <br/>
 ![zahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahinrosli&show_icons=true&theme=radical&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahinrosli&show_icons=true&theme=radical&layout=compact)
-
 <!--
 **zahinrosli/zahinrosli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
