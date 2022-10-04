@@ -14,7 +14,7 @@ A brief introduction on myself:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ### My profile statistics <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahinrosli&show_icons=true&theme=radical&layout=compact) ![zahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahinrosli&show_icons=true&theme=radical&layout=compact)
+ ![zahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahinrosli&show_icons=true&theme=radical&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahinrosli&show_icons=true&theme=radical)
 
 <!--
 **zahinrosli/zahinrosli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
